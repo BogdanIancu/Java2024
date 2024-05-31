@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="w3c.dom" type="repository">
+    <properties maven-id="org.w3c:dom:2.3.0-jaxb-1.0.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/w3c/dom/2.3.0-jaxb-1.0.6/dom-2.3.0-jaxb-1.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
